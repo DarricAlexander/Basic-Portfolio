@@ -1,0 +1,60 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+h1 {
+    background-color: #4aaaa5;
+    color: white;
+    width: 25%;
+    text-align: center;
+    margin-left: 10%;
+    border: 25px;
+}
+
+
+.header {
+    background-color: #ffffff;
+    border-color: #cccccc;
+    width: 25%;
+    float: left;
+    
+}
+
+h2 {
+    color: #4aaaa5;
+}
+
+p   {
+    color: #777777;
+}
+
+footer {
+    text-align: center;
+}
+
+list {
+    float: left;
+    display: block;
+}
+
+
+footer {
+    padding: 20px;
+  clear: both;
+  background: #666666;
+  font-family: 'Georgia';
+  text-decoration-color: #ffffff;
+}
+
+copy {
+    color: #ffffff;
+}
+
+
+
+
+
+
+

@@ -1,0 +1,10 @@
+floatleft { float: left;
+margin: 15px 15px 0 0; 
+color: #777777;  
+}
+
+#About {
+    float: right;
+    color: #7777;
+    background: #30948D;
+}
