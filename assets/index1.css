@@ -1,0 +1,16 @@
+#masterhead {
+    background-color: coral;
+}
+
+#logo {
+    display: inline-block;
+    display: block;
+    height: auto;
+    max-width: 100%;
+    vertical-align: middle;
+    border: 0px;
+    box-sizing: border-box;
+    font-size: 36px;
+    line-height: 50px;
+
+}

@@ -1,0 +1,84 @@
+* {
+    margin: 25px;
+    background: #8592ad;
+}
+
+#Darric  {
+    background-color: coral;
+    font-size: 40px;
+    color: #444444;
+    font-weight: bold;
+    border: 6px solid navy;
+    margin: 35px;
+    text-align: center;
+    border-radius: 25px;
+    
+}
+
+nav {
+    float: right;
+    color: darkgoldenrod;
+    background-color: coral;
+    font-size: 36px;
+    font-family: 'Times New Roman', Times, serif;
+    color: #444444;
+    margin: 0px;
+    margin-right: 15px;
+    display: block;
+    padding: 8px;
+    border-right: 6px solid navy;
+    border-left: 6px solid navy;
+    border-radius: 25px;
+    text-decoration: none;
+    
+}
+
+h1 {
+    background-color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-weight: bold;
+    max-width: 20%;
+    margin-top: 25px;
+    color: #444444;
+    margin-left: 35px;
+    border: 6px solid navy;
+    text-align: center;
+    border-radius: 25px;
+    
+    
+        
+}
+#pic {
+    float: left;
+    margin-left: 25px;
+    margin-top: 35px;
+    border: 15px solid navy;
+    margin-left: 37px;
+    border-radius: 15px;
+    
+
+}
+
+p {
+    
+    text-align: left;
+    background-color: lightgrey;
+    width: 900px;
+    border: 25px solid coral;
+    padding: 25px;
+    margin: 25px;
+    margin-top: 50px;
+    border-radius: 125px;
+    
+}
+
+
+
+.footer {
+    background-color: #F1F1F1;
+    text-align: center;
+    padding: 10px;
+}
+
+

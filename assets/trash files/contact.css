@@ -1,0 +1,20 @@
+h2 {
+    background-color: coral;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 26px;
+    font-weight: bold;
+    max-width: 20%;
+    margin-top: 25px;
+    color: #444444;
+    margin-left: 100px;
+    border: 6px solid navy;
+    text-align: center;
+    border-radius: 25px;
+}
+
+.col-75 {
+    widows: 25px;
+    border: solid;
+    border-color: coral;
+    width: 190px;
+}
